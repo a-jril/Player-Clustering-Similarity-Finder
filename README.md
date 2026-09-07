@@ -3,7 +3,7 @@
 > Mencari pemain sepak bola dengan playstyle mirip pemain bintang, tapi market value jauh lebih murah.
 
 ## 🔗 Tautan Demo
-[Link ke live demo / dashboard / notebook Colab / video singkat — hapus baris ini kalau belum ada]
+
 
 ## 📋 Daftar Isi
 - [Pemahaman Bisnis](#-pemahaman-bisnis)
